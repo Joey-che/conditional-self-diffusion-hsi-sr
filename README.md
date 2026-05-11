@@ -131,9 +131,9 @@ Recommended settings from the paper:
 
 Use `--guidance-loss mse`, `--guidance-loss vgg`, or `--guidance-loss mix` to select the guidance branch. VGG guidance uses pretrained VGG-16 features from `torchvision`.
 
-## Code Availability Snippet
+## Code Availability
 
-After pushing this folder to GitHub, replace the URL in `paper_code_availability_snippet.tex` and insert it into the paper.
+https://github.com/Joey-che/conditional-self-diffusion-hsi-sr
 
 ## Attribution
 
