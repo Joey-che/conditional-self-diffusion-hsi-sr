@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Unsupervised Hyperspectral Image Super-Resolution Based on a Conditional Self-Diffusion Model"
+authors:
+  - name: "Anonymous Authors"
+date-released: 2026-05-11
+license: MIT
+repository-code: "https://github.com/TODO/conditional-self-diffusion-hsi-sr"
+references:
+  - type: conference-paper
+    title: "Self-diffusion for Solving Inverse Problems"
+    authors:
+      - family-names: "Luo"
+        given-names: "Guanxiong"
+      - family-names: "Huang"
+        given-names: "Shoujin"
+    year: 2025
+    url: "https://openreview.net/forum?id=5g9qls1V7Q"
