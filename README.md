@@ -133,7 +133,7 @@ Use `--guidance-loss mse`, `--guidance-loss vgg`, or `--guidance-loss mix` to se
 
 ## Code Availability
 
-https://github.com/Joey-che/conditional-self-diffusion-hsi-sr
+https://anonymous.4open.science/r/conditional-self-diffusion-hsi-sr-2026
 
 ## Attribution
 
