@@ -5,7 +5,7 @@ authors:
   - name: "Anonymous Authors"
 date-released: 2026-05-11
 license: MIT
-repository-code: "https://github.com/Joey-che/conditional-self-diffusion-hsi-sr.git"
+repository-code: "https://anonymous.4open.science/r/conditional-self-diffusion-hsi-sr-2026"
 references:
   - type: conference-paper
     title: "Self-diffusion for Solving Inverse Problems"
